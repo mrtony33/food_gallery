@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row1{
+    display: flex;
+    padding: 20px;
+    padding-top: 0;
+    margin: 20px;
+    margin-top: 0;
+}
+.row2{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    
+}
+h1{
+    text-align: center;
+    padding: 40px;
+    background: #ff7720 ;
+}
+.col{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 3px solid #ddd;
+}
+.col:hover{
+    font-size: large;
+    border: 3px solid #333;
+}
+video{
+    width: 100%;
+}
+button{
+    /* width: 100%; */
+    background: #ff7720 ;
+padding: 15px;
+margin: 15px;
+}
